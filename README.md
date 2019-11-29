@@ -14,7 +14,7 @@ I learned some basic swift grammar and XCode interface, but most importantly, ho
 * Manipulating the View with code<br />
 * Swift Grammar such as functions and variable scope<br />
 * Basic debugging 
-
+<br/><br/><br/><br/>
 <p align="center">
 <img src="https://i.imgur.com/4sp1Ot0.gif" width="350">
 </p>
